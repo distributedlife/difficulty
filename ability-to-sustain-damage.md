@@ -5,7 +5,7 @@ Unlike the other difficulty vectors this one is a set of values describing game 
 
 #### Variation: Health System / Damage Model
 
- - **No Health System / Instakill** (*Super meat boy*)
+ - **No Health System /  - **Instakill** (*Super meat boy*)
  - **No health recovery system** (Space Invaders) 
  - **Partial Recovery Health System** (*Left 4 Dead*)
  - **Full Recovery Health System** (*Quake*)
@@ -20,7 +20,7 @@ These approaches are about how much leeway the player has with their mistakes. T
 - Scarcity
 - Death Permanence
 
-##### No Health System / Instakill
+##### No Health System /# Instakill
 This approach means that one mistake costs the player their life. Death means the player needs to restart the level or in brutal circumstances, the game.
 
 ##### No Health Recovery System 
@@ -29,15 +29,15 @@ The player can be hit more than once but the damage cannot be reversed. These ga
 ##### Partial Recovery Health System
 This is when the player cannot get all their health back. Left 4 Dead gives the player 80% of the missing health back and there is often not enough health kits to get them to 100%. Once injured the player can never return to full health. This percentage based approach is useful when coupled with scarcity. Infrequent opportunities to apply health means that players are more likely to be low on health when healing. Giving them a percentage back will bring most players back to good health and in line with each other.
 
-##### Full Recovery Health System
+###### Full Recovery Health System
 In Quake the player can have between 1 and 100 health (ignoring megahealth). A medkit gives 25 health and four kits will restore them to 100. This allow the player to make mistakes and return to full health.
 
-##### Regeneration System
+###### Regeneration System
 A regeneration system requires the player to not get hit for a while and their health will restore. This is a lenient model as it’s usually easy for the player to stop behind cover and ‘undo’ their mistake.
 
 It also means that the writers don't have to find some reason for health to be strewn about the landscape.
 
-##### No Damage Model / Invulnerability
+###### No Damage Model / Invulnerability
 Health has no influence on the game. This often used for games where the player's ability to survive attacks is not what is being tested here.
 
 #### Variation: time to heal
@@ -47,13 +47,13 @@ The models that have a chance to restore some health are again can be split on h
 - **Instant after Wait** (*Left 4 Dead*)
 - **Heal over Time** (*Fallout 4*)
 
-##### Instant Healing
+###### Instant Healing
 The application of health is instantaneous. This is most early first person shooters where health was placed on the ground, when the player runs over the health they heal.
 
-##### Instant after Wait
+###### Instant after Wait
 The application of health is applied at the end of the healing animation. This requires the player to hold the heal button down until healing is complete; about three seconds . There can be some wonderfully tense moments as you wait for the healing by watching a flood of zombies pour over the rooftop and into the alley where you are.
 
-##### Heal Over Time
+###### Heal Over Time
 The application of the healing is instant but is applied over time. Often the amount of healing you are going to receive is clearly visible and your current health slowly climbs to that mark. Fallout 4 uses this system where munching on some mutfruit will give you a small chunk of potential health. Then over time your actual health increase to reach your potential health.
 
 This approach forces the player to be more careful after the loss of health as they are could easily be killed until they have regenerated. 
@@ -73,45 +73,49 @@ With any approach that supports healing comes the question of when and where hea
 ##### Whenever/Wherever
 As long as the player has some method of applying health, they can apply it.
 
-##### Outside of Combat Only / Wherever
+###### Outside of Combat Only / Wherever
 As long as the player is not in combat they can heal. *Rise of the Tomb Raider* does this at the *Seasoned Raider* difficulty level. This forces the player to manage their health during combat and then gives them a breather afterward as their health restores. The next level of difficulty, *Survivor*, disables health regeneration entirely.
 
-##### Whenever / At Specific Locations 
+###### Whenever / At Specific Locations 
 This means that health cannot be taken around. In some cases it's at the start of each level the health of the player is restored e.g. *Space Invaders* which we can contrast to *Missile Command* where the health –manifested as cities, is not restored from level to level.
 
 This approach also applies to games like *Quake* where health cannot be picked up and carried around by the player forcing them to heal when available.
 
 #### Variation: Scarcity
-Scarcity of healing locations or health influences difficulty as well. If healing is few and far between then the player needs to be more careful on losing health and more discerning of when is the right time to heal. Scarcity as a variation with a continuous spectrum from *Scarce* to *Abundant*. Either side of this could be perceived as *Non-Existent* or *Ubiquitous* but both of those terms change this variation into something else. If health is non-existent then you have *no health recovery* system and if health is ubiquitous then you have *regeneration* or *no damage model*.
+Scarcity of healing locations or health influences difficulty as well. If healing is few and far between then the player needs to be more careful on losing health and more discerning of when is the right time to heal. Scarcity as a variation with a continuous spectrum from *Scarce* to *Abundant*. Either side of this could be perceived as *Non-Existent* or *Ubiquitous* but both of those terms change this variation into something else. If heal here as well.
+
+> TODO: th is non-existent then you have *no health recovery* system and if health is ubiquitous then you have *regeneration* or *no damage model*.
 
 Scarce <---> Abundant
 
-What scarce means will differ from one game to the next and from one difficulty mode to another. 
+What scarce means will differ from one game to the next and from one difficulty mode to another. section
 
 #### Variation: Impact of Health Loss
 - **No Impact** (Quake)
 - **Damage Reduces Effectiveness** (*Indianapolis 500*)
 - **Damage Increases Effectiveness** (*Fallout 4*)
 
-##### No Impact
+###### No Impact
 It does not matter how low the player's health is, as long as it is above zero then they compete with unchanged effectiveness.
 
-##### Damage Reduces Effectiveness
+###### Damage Reduces Effectiveness
 This is often implemented in racing simulations where the damage the players car takes reduces it’s effectiveness to complete and therefore makes the game harder. The act of fixing the damage, if possible, also costs the player a time penalty that often leaves the player in such a position that they cannot win. The player has to weight up the cost of the damage versus the time lost to restore their car to full health.
 
 In games like *Fallout 4* the damage the player takes may impair some aspect of game play. A shot in the face blurs the screen, a shot in the leg reduces movement speed. 
 
-##### Damage Increases Effectiveness
+###### Damage Increases Effectiveness
 The variation is either a part of the game or perhaps a feature of one class where the more damaged the player is, or once damaged to a certain extent e.g. 25% health remaining the player is able to dish out more damage. 
 
-The *Nerd Rage* perk in *Fallout 4* works in this way: "*+50% Damage Resistance and Strength is raised to 10 if HP drops below 20%*"
+The *Nnerd Rage*race perk in *Fallout 4* works in this way: "*
+
+> +50% Damage Resistance and Strength is raised to 10 if HP drops below 20%*"
 
 #### Variation: death permanence
 
 - **Game over, no more games can be played / Everlasting Death** (*Upsilon Circuit*)
 - **Game over, all progress is lost / Permadeath** (*Spelunky*)
-- **Restart level** (*Super Meat Boy*)
-- **Restart checkpoint** (*VVVVVV*)
+- **Restart level** (*Super Meat Boy*)at last save
+- **Restart checkpoint** (*VVVVVV*) 
 - **Restart at last save** (*Divinity: Original Sin 2*)
 - **Rewind the last X seconds** (Prince of Persia: The Sands of Time)
 
@@ -140,7 +144,17 @@ One way to measure scarcity is in time. If a level takes five minutes to complet
 
 Scarce <---> Abundant
 
-A save system where the player can press F5 whenever they want has abundant saves. A save system that only saves when the player can find a bed, that's scarcity.
+A save system where the player can press F5 whenever they want has abundant saves. A save system that only saves when the player can find a bed, that's scarcity.level
+
+##### Game over, no more games can be played
+
+##### Game over, all progress is lost
+
+##### Restart at last save
+
+##### Restart checkpoint 
+
+##### Restart level
 
 
 ### Sticking to it 
@@ -149,6 +163,31 @@ Now, I said that most games pick a model and stick with it. The difficulty vecto
 
 It is possible for a game to change models and use the changing of the model to represent the changing difficulty. The player could start with a regeneration model and then through narrative it breaks and a full health model is brought into play. Over time the effectiveness of health kits is reduced and the player gets less and less of a benefit from them. The game progresses with the introduction of mechanics that result in damage to the player reduces their effectiveness (be it to fight back or to move) and finally the player is left in a situation where touch is death. This last model should be reserved for the end game. Here no other aspect of the game is made more difficult except the changing of the damage model. Here we find out how well the player can manage their health resource and triumph.
 
+### Tables
+##### Instakill
+|Instant Healing|Instance After Wait|Heal Over Time|
+|--|--|--|
+||||
+
+ 
+- Time to heal (instant healing, Instant after wait, heal over time)
+- When and where healing can take place (Whenever/Wherever, Outside of Combat Only / Wherever, At Specific Locations)
+- Impact of Health Loss (No Impact, Damage Reduces Effectiveness, Damage Increases Effectiveness)
+- Scarcity (Scarce - Abundant)
+- Death Permanence (Game over, no more games can be played, Game over - all progress is lost, Restart at last save, Restart checkpoint, Restart level)
+
+
+
+- Quake
+- Fallout 4
+- Divinity Original Sin 2
+- Left 4 Dead
+- Tomb Raider
+- Indianapolis 500
+- Missile Command
+- Space Invaders
+- Dear Esther
+- Gears of War 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ2ODY3NzAyXX0=
+eyJoaXN0b3J5IjpbMTczNzA0MDY1Ml19
 -->
