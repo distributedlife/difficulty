@@ -132,6 +132,7 @@ When you die, you restart at the last checkpoint you crossed. This can be within
 Saves tend to push the control of when to checkpoint into the hands of the player. This could be done through quick-save that lets the player save at any point or, through a system like sleeping in *Fallout 4 - Survival mode* where saves will only be made when the player sleeps.
 
 ##### Rewind the last X seconds
+> TODO: this bit
 
 #### Variation: save / checkpoint scarcity
 Just as health is scarce, save points can be too, whether through checkpoints or save mechanics. This drives up difficulty for the player as the pressure increases as they become more invested in the playthrough and closer to the next checkpoint. 
@@ -150,5 +151,5 @@ Now, I said that most games pick a model and stick with it. The difficulty vecto
 It is possible for a game to change models and use the changing of the model to represent the changing difficulty. The player could start with a regeneration model and then through narrative it breaks and a full health model is brought into play. Over time the effectiveness of health kits is reduced and the player gets less and less of a benefit from them. The game progresses with the introduction of mechanics that result in damage to the player reduces their effectiveness (be it to fight back or to move) and finally the player is left in a situation where touch is death. This last model should be reserved for the end game. Here no other aspect of the game is made more difficult except the changing of the damage model. Here we find out how well the player can manage their health resource and triumph.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ2ODY3NzAyXX0=
+eyJoaXN0b3J5IjpbMTEwNDM3NzUwNV19
 -->
