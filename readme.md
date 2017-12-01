@@ -1,5 +1,5 @@
 # A Study of Difficulty and Game Design
-### Introduction
+## Introduction
 > “Reaction time is not a mass market skill.” - Raph Koster
 
 Let me start by posing some questions. Why are some games harder than others? 
@@ -16,8 +16,8 @@ The goal of this work is to make it easier to design games for specific audience
  
 I also hope that this work will also allow us to look beyond how we see games now and reimagine them in new contexts. 
 
-#### Author's Note
+### Author's Note
 I'm uninterested in comparing players across games. I don't think that the player of one game is better or worse than the player of another game. I'm more interested in what traits does each game require? And, were the players attracted to those games because of the traits required to play? If so, when I design a game can I attract certain players because of the traits the game requires?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjM0MTYxNTZdfQ==
+eyJoaXN0b3J5IjpbNDg0Mjc1MjY2XX0=
 -->
