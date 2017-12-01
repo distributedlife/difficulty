@@ -84,7 +84,7 @@ This approach also applies to games like *Quake* where health cannot be picked u
 #### Variation: Scarcity
 Scarcity of healing locations or health influences difficulty as well. If healing is few and far between then the player needs to be more careful on losing health and more discerning of when is the right time to heal. Scarcity as a variation with a continuous spectrum from *Scarce* to *Abundant*. Either side of this could be perceived as *Non-Existent* or *Ubiquitous* but both of those terms change this variation into something else. If health is non-existent then you have *no health recovery* system and if health is ubiquitous then you have *regeneration* or *no damage model*.
 
-Scarce <---> Abundant
+	| Scarce <---> Abundant |
 
 What scarce means will differ from one game to the next and from one difficulty mode to another. 
 
@@ -139,7 +139,7 @@ Just as health is scarce, save points can be too, whether through checkpoints or
 
 One way to measure scarcity is in time. If a level takes five minutes to complete it has the same scarcity as a longer level that has sub-level checkpoints roughly five minutes apart.
 
-Scarce <---> Abundant
+	| Scarce <---> Abundant |
 
 A save system where the player can press F5 whenever they want has abundant saves. A save system that only saves when the player can find a bed, that's scarcity.
 
@@ -151,5 +151,5 @@ Now, I said that most games pick a model and stick with it. The difficulty vecto
 It is possible for a game to change models and use the changing of the model to represent the changing difficulty. The player could start with a regeneration model and then through narrative it breaks and a full health model is brought into play. Over time the effectiveness of health kits is reduced and the player gets less and less of a benefit from them. The game progresses with the introduction of mechanics that result in damage to the player reduces their effectiveness (be it to fight back or to move) and finally the player is left in a situation where touch is death. This last model should be reserved for the end game. Here no other aspect of the game is made more difficult except the changing of the damage model. Here we find out how well the player can manage their health resource and triumph.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNDM3NzUwNV19
+eyJoaXN0b3J5IjpbLTk1ODkxMDk0M119
 -->
