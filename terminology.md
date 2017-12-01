@@ -1,4 +1,4 @@
-## Terminology
+### Terminology
 There are few words that will get used over and over again in this work. Difficulty, skills, vector and spectrum. I'm going to take moment now to define these forIn the context of this book, I will use the term trait to refer to a trait is a distinguishing quality or characteristic; a genetically determined characteristic. I use within the work.
 
 > Skill - a discrete, named, thing that you need to succeed at a given game.
@@ -19,8 +19,7 @@ It also means that in order for one player to become better at a game, they need
 
 This is the goal of this book. To help you identify who will be good at your game and to help you tailor the game for those players. Or, if you want to design your game for people you don’t normally design games for.
 
-#
-## Vector
+#### Vector
 Now that we have this concept of broad skills we're going to want to tune that skill for our game. This is where vectors come into play. Vectors allow us to make a game easier or harder and allow us to make that progression happen over the course of the game.
 
 One of the skills we will discuss in this work is *memory*; the player's ability to remember important information. At some point in the game we may show the player a four digit code. Then later the player will have to recall those four digits. We can make this game of memory easier or harder by playing with these **vectors**:
@@ -37,7 +36,7 @@ These three things are difficulty vectors. You have a game that requires a set o
 
 Each skill included in this work will have multiple vectors you can use to tweak the difficulty. There is also an appendix that contains each difficulty vector.
 
-### Spectrum
+#### Spectrum
 Each of our vectors allow games to be made easier or harder. This changing of the vector is a change of where it sits on the spectrum.
 
 Using the example of the **size** vector for the *memory* skill. We know that not having to remember any information is the easiest so that sits on one extreme edge. After that only one piece of information is next easiest. As we add more things to remember, we move away from easy towards the hard end. 
@@ -52,38 +51,38 @@ The **age** vector would sit on this spectrum. From visible where the thing we r
 
 With spectrums we don't define all the points in between we just know that they exist and that you can make a game harder by shifting it along the spectrum.
 
-### Difficulty
+#### Difficulty
 Not all games require the same involvement of skill. In some games it's *vital* that a player have a particular skill. In other it's *relevant* but isn't the differentiating factor. Adding to this is *irrelevant* where skills don't matter for games. Unless the pieces are really heavy, *strength* doesn’t make you a better Chess player.
 
 These are again points on a spectrum with *irrelevant* on one end and *vital* on the other. 
 
 	| Irrelevant <——> Relevant <——> Vital |
 
-#### Irrelevant 
+##### Irrelevant 
 The skill has no impact over the outcome of the game. Your ability to sDifficulty Vectors
 In this book I’ll dive deep into each trait and come up with what I called *difficulty vectors*. These are ways ing won’t help you in a sprinting race. 
 
-#### Relevant
+##### Relevant
 The skill is involved in the play of the game and does impact the game. But it itself is not enough to win consistently. Luck is involved in poker and it may help you win a game. But you can’t rely on luck alone to be competitive.
 
-#### Vital
+##### Vital
 The skill either by itself, or with another skill directly determines the outcome of the game. Being the fastest will help you win the sprint.
 
 
-## Games
+### Games
 Throughout this book I use the term table-top games to refer to all card and board games. I include role playing games (RPG) in this too. The second category is computer games which is any game that is at primarily electronic. The third and final category is physical. This last game is any game that is physical in nature. Track & Field, Cricket and live action role playing games (LARP) all sit in this category. 
 
 The important thing is that that they are all games.
 
-#### Table-Top Games
+##### Table-Top Games
 International Chess, Poker, Dungeons & Dragons, Diplomacy, Charades and Sunshine City.
 
-#### Computer Games
+##### Computer Games
 Doom, Zork, Plants vs. Zombies, Star Craft, Proteus and Starseed Pilgrim.
 
-#### Physical Games
+##### Physical Games
 100m Sprint, Jogging, Cricket, Soccer and Skiing.hich you can make a game harder or easier. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NDQyMjM5MV19
+eyJoaXN0b3J5IjpbMTQyNjg1NjhdfQ==
 -->
