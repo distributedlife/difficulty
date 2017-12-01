@@ -18,6 +18,8 @@ I also hope that this work will also allow us to look beyond how we see games no
 
 ### Author's Note
 I'm uninterested in comparing players across games. I don't think that the player of one game is better or worse than the player of another game. I'm more interested in what traits does each game require? And, were the players attracted to those games because of the traits required to play? If so, when I design a game can I attract certain players because of the traits the game requires?
+
+[Ter](./)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg0Mjc1MjY2XX0=
+eyJoaXN0b3J5IjpbMTMwOTUwNTgyM119
 -->
