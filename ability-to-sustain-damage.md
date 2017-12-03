@@ -142,14 +142,6 @@ One way to measure scarcity is in time. If a level takes five minutes to complet
 	| Scarce <---> Abundant |
 
 A save system where the player can press F5 whenever they want has abundant saves. A save system that only saves when the player can find a bed, that's scarcity.
-- Restart at last save
-- Restart checkpoint 
-- Restart level
-
-#####
-#####
-#####
-
 
 ### Sticking to it 
 
@@ -158,5 +150,5 @@ Now, I said that most games pick a model and stick with it. The difficulty vecto
 It is possible for a game to change models and use the changing of the model to represent the changing difficulty. The player could start with a regeneration model and then through narrative it breaks and a full health model is brought into play. Over time the effectiveness of health kits is reduced and the player gets less and less of a benefit from them. The game progresses with the introduction of mechanics that result in damage to the player reduces their effectiveness (be it to fight back or to move) and finally the player is left in a situation where touch is death. This last model should be reserved for the end game. Here no other aspect of the game is made more difficult except the changing of the damage model. Here we find out how well the player can manage their health resource and triumph.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjU2MTAzMjJdfQ==
+eyJoaXN0b3J5IjpbLTE1MjcyNjgxNDVdfQ==
 -->
