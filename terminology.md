@@ -5,13 +5,11 @@ There are few words that will get used over and over again in this work. Difficu
 
 In this book, I use the term skill to refer to the discrete thing that makes one person succeed in a give games word instead of characteristic because it takes less time to type out.
 
-In this book a skilltrait is what makes one person better at a game than another. *Strength*, for example, is a *physical* skill. You can be stronger than someone else and this influences how good you are at games where strength is the deciding factor e.g. weightlifting.
+In this book a skill is what makes one person better at a game than another. *Strength*, for example, is a *physical* skill. You can be stronger than someone else and this influences how good you are at games where strength is the deciding factor e.g. weightlifting.
 
-Skills areTraits have been organised into four related groups: *physical*, *mental*, *social* and *external*. Physical skills are to do with your physical body and include the aforementioned strength. Mental skills relate to how you think and include skills like memory and prediction. Social skills involve working with or against other people and includes collaboration and negotiation. The final group: external skills refers to the influence on the game from things outside the game. This group includes luck, time and money.
+Skills have been organised into four related groups: *physical*, *mental*, *social* and *external*. Physical skills are to do with your physical body and include the aforementioned strength. Mental skills relate to how you think and include skills like memory and prediction. Social skills involve working with or against other people and includes collaboration and negotiation. The final group: external skills refers to the influence on the game from things outside the game. This group includes luck, time and money.
 
 Physical skills are, to an extent, governed by our genetics and the environment that we grew up in. Both your nutrition and the genetics of your parents will influence how tall you will be. Once you've grown to a certain height you can't grow any more. 
-
-Your sex will influence your average strength. Men are, on average, stronger than women. This doesn’t mean that men are stronger than women. At a guess, every female athlete is stronger than I.  And capability in one skilltrait does not mean that you will excel in another. My friend Elise is a substantially faster runner although I am stronger. My partner Jess is a better singer than I, as are most people.
 
 This doesn’t mean that physical skills cannot be improved. All athletes work very hard to become as good as they are.  All this means that when you’re designing a game that relies on these skills you need to consider how this influences which players are going to win will be better. 
 
@@ -60,7 +58,7 @@ These are again points on a spectrum with *irrelevant* on one end and *vital* on
 
 ##### Irrelevant 
 The skill has no impact over the outcome of the game. Your ability to sDifficulty Vectors
-In this book I’ll dive deep into each trait and come up with what I called *difficulty vectors*. These are ways ing won’t help you in a sprinting race. 
+In this book I’ll dive deep into each skill and come up with what I called *difficulty vectors*. These are ways ing won’t help you in a sprinting race. 
 
 ##### Relevant
 The skill is involved in the play of the game and does impact the game. But it itself is not enough to win consistently. Luck is involved in poker and it may help you win a game. But you can’t rely on luck alone to be competitive.
@@ -84,5 +82,5 @@ Doom, Zork, Plants vs. Zombies, Star Craft, Proteus and Starseed Pilgrim.
 100m Sprint, Jogging, Cricket, Soccer and Skiing.hich you can make a game harder or easier. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NTA0NjkzMV19
+eyJoaXN0b3J5IjpbLTE4MjAzODE4NzJdfQ==
 -->
