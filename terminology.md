@@ -5,13 +5,11 @@ There are few words that will get used over and over again in this work. Difficu
 
 In this book, I use the term skill to refer to the discrete thing that makes one person succeed in a give games word instead of characteristic because it takes less time to type out.
 
-In this book a trait is what makes one person better at a game than another. *Strength*, for example, is a *physical* skill trait. You can be stronger than someone else and this influences how good you are at games where strength is the deciding factor e.g. weightlifting.
+skillit is what makes one person better at a game than another. *Strength*, for example, is a *physical* skill trait. You can be stronger than someone else and this influences how good you are at games where strength is the deciding factor e.g. weightlifting.
 
-Skills areTraits have been organised into four related groups: *physical*, *mental*, *social* and *external*. Physical skilltraits are to do with your physical body and include the aforementioneds strength. Mental skilltraits relate to how you think and include skilltraits like memory and prediction. Social skilltraits involve working with or against other people and includes collaboration and negotiation. The final group: external skilltraits refers to the influence on the game from things outside the game. This group includes luck, time and money.
+Skills have been organised into four related groups: *physical*, *mental*, *social* and *external*. Physical skilltraits are to do with your physical body and include the aforementioneds strength. Mental skilltraits relate to how you think and include skilltraits like memory and prediction. Social skilltraits involve working with or against other people and includes collaboration and negotiation. The final group: external skilltraits refers to the influence on the game from things outside the game. This group includes luck, time and money.
 
 Physical skilltraits are, to an extent, governed by our genetics and the environment that we grew up in. Both your nutrition and the genetics of your parents will influence how tall you will be. Once you've grown to a certain height you can't grow any more. 
-
-Your sex will influence your average strength. Men are, on average, stronger than women. This doesn’t mean that men are stronger than women. At a guess, every female athlete is stronger than I.  And capability in one skilltrait does not mean that you will excel in another. My friend Elise is a substantially faster runner although I am stronger. My partner Jess is a better singer than I, as are most people.
 
 This doesn’t mean that physical skilltraits cannot be improved. All athletes work very hard to become as good as they are.  All this means that when you’re designing a game that relies on these skillraits you need to consider how this influences which players are going to winwill be better. 
 
@@ -19,7 +17,8 @@ It also means that in order for one player to become better at a game, they need
 
 This is the goal of this book. To help you identify who will be good at your game and to help you tailor the game for those players. Or, if you want to design your game for people you don’t normally design games for.
 
-#### Vector
+##
+## Vector
 Now that we have this concept of broad skills we're going to want to tune that skill for our game. This is where vectors come into play. Vectors allow us to make a game easier or harder and allow us to make that progression happen over the course of the game.
 
 One of the skills we will discuss in this work is *memory*; the player's ability to remember important information. At some point in the game we may show the player a four digit code. Then later the player will have to recall those four digits. We can make this game of memory easier or harder by playing with these **vectors**:
@@ -84,5 +83,5 @@ Doom, Zork, Plants vs. Zombies, Star Craft, Proteus and Starseed Pilgrim.
 100m Sprint, Jogging, Cricket, Soccer and Skiing.hich you can make a game harder or easier. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNjg1NjhdfQ==
+eyJoaXN0b3J5IjpbLTk1MjA4OTQxOV19
 -->
