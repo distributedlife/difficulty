@@ -8,7 +8,9 @@ In this book a skill is what makes one person better at a game than another. *Re
 
 Skills have been organised into four groups: *physical*, *mental*, *social* and *external*. Physical skills are to do with your physical body and include the aforementioned reaction. Mental skills relate to how you think and include skills like memory and prediction. Social skills involve working with or against other people and includes collaboration and negotiation. The final group: external skills refers to the influence on the game from things outside the game. This group includes luck, time and money.
 
-Most games do not rely on one skill to determine who is the winner. Sprinting relies on 
+Most games do not rely on one skill to determine who is the winner. Sprinting relies on your speed (being faster than anyone else), your reactions (hearing the starters pistol first -although this matter less in longer distance races) and endurance (being able to run that fast for that long -this matters more the longer the race is). 
+
+In this book I'll talk about skills independently so we can better manipulate them and our games to achieve our goals. Latter I'll talk about combining skills and how that can shape new games.
 
 #### Vector
 Now that we have this concept of broad skills we're going to want to tune that skill for our game. This is where vectors come into play. Vectors allow us to make a game easier or harder and allow us to make that progression happen over the course of the game.
@@ -74,5 +76,5 @@ Doom, Zork, Plants vs. Zombies, Star Craft, Proteus and Starseed Pilgrim.
 100m Sprint, Jogging, Cricket, Soccer and Skiing.hich you can make a game harder or easier. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY4MTI0OTYyXX0=
+eyJoaXN0b3J5IjpbLTIwODE2NjkzODddfQ==
 -->
