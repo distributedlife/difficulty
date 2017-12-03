@@ -5,7 +5,7 @@ There are few words that will get used over and over again in this work. Difficu
 
 In this book, I use the term skill to refer to the discrete thing that makes one person succeed in a give games word instead of characteristic because it takes less time to type out.
 
-skillit is what makes one person better at a game than another. *Strength*, for example, is a *physical* skill trait. You can be stronger than someone else and this influences how good you are at games where strength is the deciding factor e.g. weightlifting.
+In this book a skill is what makes one person better at a game than another. *Strength*, for example, is a *physical* skill trait. You can be stronger than someone else and this influences how good you are at games where strength is the deciding factor e.g. weightlifting.
 
 Skills have been organised into four related groups: *physical*, *mental*, *social* and *external*. Physical skilltraits are to do with your physical body and include the aforementioneds strength. Mental skilltraits relate to how you think and include skilltraits like memory and prediction. Social skilltraits involve working with or against other people and includes collaboration and negotiation. The final group: external skilltraits refers to the influence on the game from things outside the game. This group includes luck, time and money.
 
@@ -83,5 +83,5 @@ Doom, Zork, Plants vs. Zombies, Star Craft, Proteus and Starseed Pilgrim.
 100m Sprint, Jogging, Cricket, Soccer and Skiing.hich you can make a game harder or easier. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MjA4OTQxOV19
+eyJoaXN0b3J5IjpbMTU3ODkwMjgyOV19
 -->
