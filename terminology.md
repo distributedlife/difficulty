@@ -6,15 +6,11 @@ In this book a skill is what makes one person better at a game than another. *Re
 
 > Skill - a discrete, named, thing that you need to succeed at a given game.
 
-Skills have been organised into four groups: *physical*, *mental*, *social* and *external*. Physical skills are to do with your physical body and include the aforementioned strength. Mental skills relate to how you think and include skills like memory and prediction. Social skills involve working with or against other people and includes collaboration and negotiation. The final group: external skills refers to the influence on the game from things outside the game. This group includes luck, time and money.
+Skills have been organised into four groups: *physical*, *mental*, *social* and *external*. Physical skills are to do with your physical body and include the aforementioned reaction. Mental skills relate to how you think and include skills like memory and prediction. Social skills involve working with or against other people and includes collaboration and negotiation. The final group: external skills refers to the influence on the game from things outside the game. This group includes luck, time and money.
 
-Physical skills are, to an extent, governed by our genetics and the environment that we grew up in. Both your nutrition and the genetics of your parents will influence how tall you will be. Once you've grown to a certain height you can't grow any more. 
 
-This doesn’t mean that physical skills cannot be improved. All athletes work very hard to become as good as they are.  All this means that when you’re designing a game that relies on these skills you need to consider how this influences which players are going to win will be better. 
 
 It also means that in order for one player to become better at a game, they need to put in training to become stronger, or faster or more coordinated. Those who don’t have the inclination or the time to do this will be less likely to play your game.
-
-This is the goal of this book. To help you identify who will be good at your game and to help you tailor the game for those players. Or, if you want to design your game for people you don’t normally design games for.
 
 #### Vector
 Now that we have this concept of broad skills we're going to want to tune that skill for our game. This is where vectors come into play. Vectors allow us to make a game easier or harder and allow us to make that progression happen over the course of the game.
@@ -80,5 +76,5 @@ Doom, Zork, Plants vs. Zombies, Star Craft, Proteus and Starseed Pilgrim.
 100m Sprint, Jogging, Cricket, Soccer and Skiing.hich you can make a game harder or easier. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI4MzA1NDMwXX0=
+eyJoaXN0b3J5IjpbLTQ2MTM5NzA3XX0=
 -->
