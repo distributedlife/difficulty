@@ -2,7 +2,7 @@
 There are few words that will get used over and over again in this work. Difficulty, skill, vector and spectrum. I'm going to take moment now to define these in the context of this book.
 
 #### Skill
-In this book a skill is what makes one person better at a game than another. *Reaction* in this book, is a, skill. You can react faster than someone else and this influences how good you are at games where reactio is the deciding factor e.g. weightlifting.
+In this book a skill is what makes one person better at a game than another. *Reaction* in this book, is a, skill. You can react faster than someone else and this influences how good you are at games where reaction times are the deciding factor e.g. weightlifting.
 
 > Skill - a discrete, named, thing that you need to succeed at a given game.
 
@@ -80,5 +80,5 @@ Doom, Zork, Plants vs. Zombies, Star Craft, Proteus and Starseed Pilgrim.
 100m Sprint, Jogging, Cricket, Soccer and Skiing.hich you can make a game harder or easier. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzkzNjE5ODddfQ==
+eyJoaXN0b3J5IjpbODk3NjU2MTIzXX0=
 -->
