@@ -2,11 +2,11 @@
 There are few words that will get used over and over again in this work. Difficulty, skill, vector and spectrum. I'm going to take moment now to define these in the context of this book.
 
 #### Skill
-In this book a skill is what makes one person better at a game than another. *Reaction* in this book, is a, skill. You can react faster than someone else and this influences how good you are at games where reaction times are the deciding factor e.g. weightlifting.
+In this book a skill is what makes one person better at a game than another. *Reaction* in this book, is a, skill. You can react faster than someone else and this influences how good you are at games where reaction times are the deciding factor e.g. *Lightning Reaction* - A game where, when the buzzer sounds, the players must squeeze a trigger. The first wins while the others receive an electrical shock.
 
 > Skill - a discrete, named, thing that you need to succeed at a given game.
 
-Skills have been organised into four related groups: *physical*, *mental*, *social* and *external*. Physical skills are to do with your physical body and include the aforementioned strength. Mental skills relate to how you think and include skills like memory and prediction. Social skills involve working with or against other people and includes collaboration and negotiation. The final group: external skills refers to the influence on the game from things outside the game. This group includes luck, time and money.
+Skills have been organised into four groups: *physical*, *mental*, *social* and *external*. Physical skills are to do with your physical body and include the aforementioned strength. Mental skills relate to how you think and include skills like memory and prediction. Social skills involve working with or against other people and includes collaboration and negotiation. The final group: external skills refers to the influence on the game from things outside the game. This group includes luck, time and money.
 
 Physical skills are, to an extent, governed by our genetics and the environment that we grew up in. Both your nutrition and the genetics of your parents will influence how tall you will be. Once you've grown to a certain height you can't grow any more. 
 
@@ -80,5 +80,5 @@ Doom, Zork, Plants vs. Zombies, Star Craft, Proteus and Starseed Pilgrim.
 100m Sprint, Jogging, Cricket, Soccer and Skiing.hich you can make a game harder or easier. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk3NjU2MTIzXX0=
+eyJoaXN0b3J5IjpbNjI4MzA1NDMwXX0=
 -->
