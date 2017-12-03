@@ -1,11 +1,10 @@
 ### Terminology
-There are few words that will get used over and over again in this work. Difficulty, skills, vector and spectrum. I'm going to take moment now to define these forIn the context of this book, I will use the term  to refer to a i is a distinguishing quality or characteristic; a genetically determined characteristic. I use within the work.
+There are few words that will get used over and over again in this work. Difficulty, skill, vector and spectrum. I'm going to take moment now to define these in the context of this book.
+
+#### Skill
+In this book a skill is what makes one person better at a game than another. *Strength*, for example, is a *physical* skill. You can be stronger than someone else and this influences how good you are at games where strength is the deciding factor e.g. weightlifting.
 
 > Skill - a discrete, named, thing that you need to succeed at a given game.
-
-In this book, I use the term skill to refer to the discrete thing that makes one person succeed in a give games word instead of characteristic because it takes less time to type out.
-
-In this book a skill is what makes one person better at a game than another. *Strength*, for example, is a *physical* skill. You can be stronger than someone else and this influences how good you are at games where strength is the deciding factor e.g. weightlifting.
 
 Skills have been organised into four related groups: *physical*, *mental*, *social* and *external*. Physical skills are to do with your physical body and include the aforementioned strength. Mental skills relate to how you think and include skills like memory and prediction. Social skills involve working with or against other people and includes collaboration and negotiation. The final group: external skills refers to the influence on the game from things outside the game. This group includes luck, time and money.
 
@@ -81,5 +80,5 @@ Doom, Zork, Plants vs. Zombies, Star Craft, Proteus and Starseed Pilgrim.
 100m Sprint, Jogging, Cricket, Soccer and Skiing.hich you can make a game harder or easier. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NTY3MDA4NF19
+eyJoaXN0b3J5IjpbLTg1OTEyNDk1NF19
 -->
