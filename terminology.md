@@ -1,5 +1,5 @@
 ### Terminology
-There are few words that will get used over and over again in this work. Difficulty, skills, vector and spectrum. I'm going to take moment now to define these forIn the context of this book, I will use the term  to refer to a skill is a distinguishing quality or characteristic; a genetically determined characteristic. I use within the work.
+There are few words that will get used over and over again in this work. Difficulty, skills, vector and spectrum. I'm going to take moment now to define these forIn the context of this book, I will use the term  to refer to a i is a distinguishing quality or characteristic; a genetically determined characteristic. I use within the work.
 
 > Skill - a discrete, named, thing that you need to succeed at a given game.
 
@@ -13,7 +13,7 @@ Physical skills are, to an extent, governed by our genetics and the environment 
 
 This doesn’t mean that physical skills cannot be improved. All athletes work very hard to become as good as they are.  All this means that when you’re designing a game that relies on these skills you need to consider how this influences which players are going to win will be better. 
 
-It also means that in order for one player to become better at a game, they need to put in training to become stronger, or faster or more coordinated. Those who can'tdon’t have the inclination or the time to do this will be less likelydisinclined to play your game.
+It also means that in order for one player to become better at a game, they need to put in training to become stronger, or faster or more coordinated. Those who don’t have the inclination or the time to do this will be less likely to play your game.
 
 This is the goal of this book. To help you identify who will be good at your game and to help you tailor the game for those players. Or, if you want to design your game for people you don’t normally design games for.
 
@@ -57,8 +57,7 @@ These are again points on a spectrum with *irrelevant* on one end and *vital* on
 	| Irrelevant <——> Relevant <——> Vital |
 
 ##### Irrelevant 
-The skill has no impact over the outcome of the game. Your ability to sDifficulty Vectors
-In this book I’ll dive deep into each skill and come up with what I called *difficulty vectors*. These are ways ing won’t help you in a sprinting race. 
+The skill has no impact over the outcome of the game. Your ability to sing won’t help you in a sprinting race. 
 
 ##### Relevant
 The skill is involved in the play of the game and does impact the game. But it itself is not enough to win consistently. Luck is involved in poker and it may help you win a game. But you can’t rely on luck alone to be competitive.
@@ -82,5 +81,5 @@ Doom, Zork, Plants vs. Zombies, Star Craft, Proteus and Starseed Pilgrim.
 100m Sprint, Jogging, Cricket, Soccer and Skiing.hich you can make a game harder or easier. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjAzODE4NzJdfQ==
+eyJoaXN0b3J5IjpbLTc5NTY3MDA4NF19
 -->
