@@ -1,18 +1,23 @@
 ### Terminology
-There are few words that will get used over and over again in this work. Difficulty, skill, vector and spectrum. I'm going to take moment now to define these in the context of this book.
+There are few words that will get used over and over again in this work. Difficulty, skill, vector and spectrum. I'm going to take moment now to define these in the context of this bookame thte thersoical s.
 
 #### Skill
-In this book a skill is what makes one person better at a game than another. *Reaction* in this book, is a, skill. You can react faster than someone else and this influences how good you are at games where reaction times are the deciding factor e.g. *Lightning Reaction* - A game where, when the buzzer sounds, the players must squeeze a trigger. The first wins while the others receive an electrical shock.
+In this book a skill is what makes one person better at a g, I will use the term trait to refer to a trait is a distinguishing quality or characteristic; a genetically determined characteristic. I use within the work.
 
-> Skill - a discrete, named, thing that you need to succeed at a given game.
+> Skill - a discrete, named, than another. *Reaction* in this book, is a, skill. You can react fasing that you need to succeed at a given game.
+
+In this book, I use the term skill to refer to the discreter than someone else and this influences how good you are at games where reaction times are the deciding factor e.g. *Lightning Reaction* - A game where, when the buzzing that makes one person succeed in a give games word instead of characteristic because it takes less time to type out.
+
+In this book a trait is what makes one per sounds, the players must squeeze a trigger. The first wins while the others receive an electrn better at a game than another. *Strength*, for example, is a *physical* shock.
+
+> Skill - a discrete, named, thing that you need to succeed at a given gamekill trait. You can be stronger than someone else and this influences how good you are at games where strength is the deciding factor e.g. weightlifting.
 
 Skills have been organised into four groups: *physical*, *mental*, *social* and *external*. Physical skills are to do with your physical body and include the aforementioned reaction. Mental skills relate to how you think and include skills like memory and prediction. Social skills involve working with or against other people and includes collaboration and negotiation. The final group: external skills refers to the influence on the game from things outside the game. This group includes luck, time and money.
 
-Most games do not rely on one skill to determine who is the winner. Sprinting relies on your speed (being faster than anyone else), your reactions (hearing the starters pistol first -although this matter less in longer distance races) and endurance (being able to run that fast for that long -this matters more the longer the race is). 
+Most games do not rely on one skill to determine who is the winner. Spritis o your  re  or me to  games.
 
-In this book I'll talk about skills independently so we can better manipulate them and our games to achieve our goals. Latter I'll talk about combining skills and how that can shape new games.
-
-#### Vector
+#
+spe## Vector
 Now that we have this concept of broad skills we're going to want to tune that skill for our game. This is where vectors come into play. Vectors allow us to make a game easier or harder and allow us to make that progression happen over the course of the game.
 
 One of the skills we will discuss in this work is *memory*; the player's ability to remember important information. At some point in the game we may show the player a four digit code. Then later the player will have to recall those four digits. We can make this game of memory easier or harder by playing with these **vectors**:
@@ -76,5 +81,5 @@ Doom, Zork, Plants vs. Zombies, Star Craft, Proteus and Starseed Pilgrim.
 100m Sprint, Jogging, Cricket, Soccer and Skiing.hich you can make a game harder or easier. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODE2NjkzODddfQ==
+eyJoaXN0b3J5IjpbLTIwMjcwMTY3MDJdfQ==
 -->
